@@ -15,6 +15,10 @@ public class PracticaUno {
             } else {
                 System.out.println("El numero " + numero + " es impar.");    
          scanner.close();
+                        }
+             }
+    }
+        
         
     
 
